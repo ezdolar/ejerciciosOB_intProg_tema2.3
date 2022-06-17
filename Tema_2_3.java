@@ -1,4 +1,4 @@
-public class Sesion3 {
+public class Tema_2_3 {
    public static void main(String[] args) {
       
       /*Paso 1.2: Llamar a la función en el main y darle valores.*/
